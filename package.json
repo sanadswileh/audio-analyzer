@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "music-metadata": "^7.11.4"
+  },
+  "name": "audio-analyzer",
+  "version": "1.0.0",
+  "main": "userinput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
